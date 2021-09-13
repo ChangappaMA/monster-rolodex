@@ -14,3 +14,4 @@ for (variable of iterable){
 for (variable in Object){
 
 }
+
